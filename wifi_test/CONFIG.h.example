@@ -1,0 +1,4 @@
+#define WIFI_SSID "NetworkName"
+#define WIFI_PASSWORD "NetworkPassword"
+#define SERVER_IP "192.168.178.37"
+#define SERVER_PORT 12121
